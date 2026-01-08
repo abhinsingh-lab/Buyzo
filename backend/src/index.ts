@@ -1,9 +1,11 @@
-import express, { Request, Response } from 'express';
+import express from 'express';
+import type { Request, Response } from 'express';
 import cors from 'cors';
-import { products } from './data/products';
+import { products } from './data/products.js'; 
 
 const app = express();
 const port = 5001;
+
 
 app.use(cors());
 app.use(express.json());
