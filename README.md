@@ -73,3 +73,10 @@ buyzo/
 ```
 
 Happy coding! 🚀
+# Intern task list (frontend)
+- Add plus minus buttons on the image itself to add to cart 
+- Pagination (10 items should be visible per page).
+
+- tabs for filter
+
+Each TODO is marked inside files under src/.
