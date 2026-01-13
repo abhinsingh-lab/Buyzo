@@ -76,7 +76,7 @@ Happy coding! 🚀
 # Intern task list (frontend)
 - Add plus minus buttons on the image itself to add to cart 
 - Pagination (10 items should be visible per page).
-
-- tabs for filter
+- use debounced search for searching the products.
+- tabs for filter(similar to electronics,clothing ,home etc using redux)
 
 Each TODO is marked inside files under src/.
